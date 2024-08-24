@@ -1,0 +1,800 @@
+body {
+    background-color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    
+   
+
+}
+
+ul {
+    list-style-type: none;
+    background-color: aqua;
+    padding: 0%;
+    margin: 0%;
+    overflow: hidden;
+    border-radius: 20px;
+    width: 700px;
+    height: 40px;
+    margin-left: 100px;
+    margin-top: 30px;
+
+}
+
+li a {
+    text-decoration: none;
+    display: block;
+    padding: 10px 16px;
+
+}
+
+li a:hover {
+    background-color: black;
+    color: white;
+    transition: 0.6s;
+    border-radius: 20px;
+    font-size: 16px;
+    
+}
+
+li {
+    float: left
+}
+
+input {
+    margin-left: 900px;
+    height: 40px;
+    background-color: white;
+    border-radius: 20px;
+    border: 1px solid black;
+    text-align: center;
+    display: flex;
+    margin-top: -40px;
+    width: 300px;
+    color: slategrey;
+
+}
+
+.con {
+    display: flex;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-bottom: 100px;
+
+
+
+
+
+}
+
+
+.a1 {
+    width: 210px;
+    height: 210px;
+    margin-top: 100px;
+    margin-left: 70px;
+    border-radius: 30px;
+    border: 2px solid white;
+
+
+}
+
+.a2 {
+    width: 210px;
+    height: 210px;
+    margin-top: 100px;
+    margin-left: 80px;
+    margin-right: 80px;
+    border-radius: 30px;
+    border: 2px solid white;
+
+}
+
+.a3 {
+    width: 210px;
+    height: 210px;
+    margin-top: 100px;
+    border-radius: 30px;
+    border: 2px solid white;
+
+}
+
+.a4 {
+    width: 210px;
+    height: 210px;
+    margin-top: 100px;
+    margin-left: 80px;
+    border-radius: 30px;
+    border: 2px solid white;
+    
+
+
+
+}
+
+.a5 {
+    width: 210px;
+    height: 210px;
+    margin-top: 40px;
+    margin-top: 500px;
+    margin-left: -1100px;
+    border-radius: 30px;
+    border: 2px solid white;
+
+}
+
+.a6 {
+    width: 210px;
+    height: 210px;
+    margin-top: 40px;
+    margin-top: 500px;
+    margin-left: -800px;
+    border-radius: 30px;
+    border: 2px solid white;
+}
+
+.a7 {
+    width: 210px;
+    height: 210px;
+    margin-top: 500px;
+    margin-left: -500px;
+    border-radius: 30px;
+    border: 2px solid white;
+}
+
+.a8 {
+    width: 210px;
+    height: 210px;
+    margin-top: 500px;
+    margin-left: -200px;
+    border-radius: 30px;
+    border: 2px solid white;
+}
+
+.a9 {
+    width: 210px;
+    height: 210px;
+    margin-left: 270px;
+    margin-top: 890px;
+    margin-left: -1100px;
+    border-radius: 30px;
+    border: 2px solid white;
+}
+
+.a10 {
+    width: 210px;
+    height: 210px;
+    margin-top: 890px;
+    margin-left: -800px;
+    border-radius: 30px;
+    border: 2px solid white;
+}
+
+.a11 {
+    width: 210px;
+    height: 210px;
+    margin-top: 890px;
+    margin-left: -500px;
+    border-radius: 30px;
+    border: 2px solid white;
+}
+
+.a12 {
+    width: 210px;
+    height: 210px;
+    margin-top: 890px;
+    margin-left: -200px;
+    border-radius: 30px;
+    border: 2px solid white;
+}
+
+.a13 {
+    width: 210px;
+    height: 210px;
+    margin-top: 1290px;
+    margin-left: -1110px;
+    border-radius: 30px;
+    border: 2px solid white;
+}
+
+.a14 {
+    width: 210px;
+    height: 210px;
+    margin-top: 1290px;
+    margin-left: -800px;
+    border-radius: 30px;
+    border: 2px solid white;
+}
+
+.a15 {
+    width: 210px;
+    height: 210px;
+    margin-top: 1290px;
+    margin-left: -500px;
+    border-radius: 30px;
+    border: 2px solid white;
+}
+
+.a16 {
+    width: 210px;
+    height: 210px;
+    margin-top: 1290px;
+    margin-left: -215px;
+    border-radius: 30px;
+    border: 2px solid white;
+}
+
+
+hr {
+    margin-top: 30px;
+}
+
+.a1:hover {
+    height: 230px;
+    width: 230px;
+    transition: 0.6s;
+    border-radius: 5px;
+
+}
+
+.a2:hover {
+    height: 230px;
+    width: 230px;
+    transition: 0.6s;
+    border-radius: 5px;
+}
+
+.a3:hover {
+    height: 230px;
+    width: 230px;
+    transition: 0.6s;
+    border-radius: 5px;
+}
+
+.a4:hover {
+    height: 230px;
+    width: 230px;
+    transition: 0.6s;
+    border-radius: 5px;
+
+}
+
+.a1:active {
+    border: 3px solid greenyellow;
+    border-radius: 40px;
+}
+
+.a2:active {
+    border: 3px solid greenyellow;
+    border-radius: 40px;
+}
+
+.a3:active {
+    border: 3px solid greenyellow;
+    border-radius: 40px;
+}
+
+.a4:active {
+    border: 3px solid greenyellow;
+    border-radius: 40px;
+}
+
+.a5:hover {
+    height: 230px;
+    width: 230px;
+    transition: 0.6s;
+    border-radius: 5px;
+}
+
+.a6:hover {
+    height: 230px;
+    width: 230px;
+    transition: 0.6s;
+    border-radius: 5px;
+}
+
+.a7:hover {
+    height: 230px;
+    width: 230px;
+    transition: 0.6s;
+    border-radius: 5px;
+}
+
+.a8:hover {
+    height: 230px;
+    width: 230px;
+    transition: 0.6s;
+    border-radius: 5px;
+}
+
+.a9:hover {
+    height: 230px;
+    width: 230px;
+    transition: 0.6s;
+    border-radius: 5px;
+}
+
+.a10:hover {
+    height: 230px;
+    width: 230px;
+    transition: 0.6s;
+    border-radius: 5px;
+}
+
+.a11:hover {
+    height: 230px;
+    width: 230px;
+    transition: 0.6s;
+    border-radius: 5px;
+}
+
+.a12:hover {
+    height: 230px;
+    width: 230px;
+    transition: 0.6s;
+    border-radius: 5px;
+}
+
+.a13:hover {
+    height: 230px;
+    width: 230px;
+    transition: 0.6s;
+    border-radius: 5px;
+}
+
+.a14:hover {
+    height: 230px;
+    width: 230px;
+    transition: 0.6s;
+    border-radius: 5px;
+}
+
+.a15:hover {
+    height: 230px;
+    width: 230px;
+    transition: 0.6s;
+    border-radius: 5px;
+}
+
+.a16:hover {
+    height: 230px;
+    width: 230px;
+    transition: 0.6s;
+    border-radius: 5px;
+}
+
+.a5:active {
+    border: 3px solid greenyellow;
+    border-radius: 40px;
+}
+
+.a6:active {
+    border: 3px solid greenyellow;
+    border-radius: 40px;
+}
+
+.a7:active {
+    border: 3px solid greenyellow;
+    border-radius: 40px;
+}
+
+.a8:active {
+    border: 3px solid greenyellow;
+    border-radius: 40px;
+}
+
+.a9:active {
+    border: 3px solid greenyellow;
+    border-radius: 40px;
+}
+
+.a10:active {
+    border: 3px solid greenyellow;
+    border-radius: 40px;
+}
+
+.a11:active {
+    border: 3px solid greenyellow;
+    border-radius: 40px;
+}
+
+.a12:active {
+    border: 3px solid greenyellow;
+    border-radius: 40px;
+}
+
+.a13:active {
+    border: 3px solid greenyellow;
+    border-radius: 40px;
+}
+
+.a14:active {
+    border: 3px solid greenyellow;
+    border-radius: 40px;
+}
+
+.a15:active {
+    border: 3px solid greenyellow;
+    border-radius: 40px;
+}
+
+.a16:active {
+    border: 3px solid greenyellow;
+    border-radius: 40px;
+}
+
+#n1 {
+    color: white;
+    text-align: center;
+    margin-left: 50px;
+}
+
+#n2 {
+    color: white;
+    text-align: center;
+    margin-left: -10px;
+}
+
+#n3 {
+    color: white;
+    text-align: center;
+    margin-left: -10px;
+}
+
+#n4 {
+    color: white;
+    text-align: center;
+    margin-left: 77px;
+}
+
+#n5 {
+    color: white;
+    margin-left: -1084px;
+}
+
+#n6 {
+    color: white;
+    margin-left: -808px;
+}
+
+#n7 {
+    color: white;
+    margin-left: -490px;
+
+}
+
+#n8 {
+    color: white;
+    margin-left: -185px;
+
+}
+
+#n9 {
+    color: white;
+    margin-left: -1093px;
+
+}
+
+#n10 {
+    color: white;
+    margin-left: -790px;
+
+}
+
+#n11 {
+    color: white;
+    margin-left: -490px;
+
+}
+
+#n12 {
+    color: white;
+    margin-left: -190px;
+
+}
+
+#n13 {
+    color: white;
+    margin-left: -1106px;
+
+}
+
+
+#n14 {
+    color: white;
+    margin-left: -790px;
+
+}
+
+
+#n15 {
+    color: white;
+    margin-left: -490px;
+
+}
+
+#n16 {
+    color: white;
+    margin-left: -190px;
+}
+
+footer {
+    color: white;
+    background-color: grey;
+    display: flex;
+    padding-top: 260px;
+
+}
+
+.Cont{
+    display: flex;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.Contact{
+    margin-left: 200px;
+    margin-top: -230px;
+    color: red;
+
+}
+.email{
+    margin-left: 90px;
+    color: black;
+}
+.no{
+    margin-left: 90px;
+    color: black;
+}
+.clg{
+    margin-left: 90px;
+    color: black;
+}
+.t{
+    margin-left: 90px;
+    color: black;
+}
+
+.q{
+    display: flex;
+    margin-left: 100px;
+    margin-top: -230px;
+}
+.q{
+    margin-left: 520px;
+    margin-top: -186px;
+    color: red;
+}
+.h{
+    margin-left: 560px;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    
+}
+.a{
+    margin-left: 546px;
+    text-decoration: none;
+    display: flex;
+    margin-top:15px ;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+.log{
+    text-decoration: none;
+    margin-left: 560px;
+    margin-top: 15px;
+    display: flex;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+.h:hover{
+    text-decoration: underline solid 1px red;
+    transition:ease-in;
+}
+a:hover{
+    text-decoration: underline 1px solid red;
+}
+.me{
+    margin-left: 865px;
+    margin-top: -130px;
+    color: red;
+}
+.instagram{
+    margin-top: -10px;
+    margin-left: 850px;
+    
+}
+.linked{
+    margin-top: -45px;
+    margin-left: 900px;
+}
+.whatapp{
+    margin-top: -45px;
+    margin-left: 950px;
+}
+.twitter{
+    margin-top: -45px;
+    margin-left: 1000px;
+    font-family:
+}
+
+.audio3{
+    width: 140px;
+    height: 25px;
+    margin-left: 30px;
+}
+.audio2{
+    width: 140px;
+    height: 25px;
+    margin-left: 110px;
+}
+.audio1{
+    width: 140px;
+    height: 25px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-left: 100px;
+
+}
+.audio4{
+    width: 140px;
+    height: 25px;
+
+}
+.audio5{
+    width: 140px;
+    height: 25px;
+    margin-left: -1070px;
+
+}
+.audio6{
+    width: 140px;
+    height: 25px;
+    margin-left: -760px;
+    
+
+}
+.audio7{
+    width: 140px;
+    height: 25px;
+    margin-left: -465px;
+    
+}
+.audio8{
+    width: 140px;
+    height: 25px;
+    margin-left: -160px;
+    
+}
+.audio9{
+    width: 140px;
+    height: 25px;
+    margin-left: -1070px;
+    
+}
+.audio10{
+    width: 140px;
+    height: 25px;
+    margin-left: -760px;
+    
+}
+.audio11{
+    width: 140px;
+    height: 25px;
+    margin-left: -465px;
+    
+}
+.audio12{
+    width: 140px;
+    height: 25px;
+    margin-left: -160px;
+
+}
+.audio13{
+    width: 140px;
+    height: 25px;
+    margin-left: -1070px;
+}
+.audio14{
+    width: 140px;
+    height: 25px;
+    margin-left: -760px;
+}
+.audio15{
+    width: 140px;
+    height: 25px;
+    margin-left: -465px;
+}
+.audio16{
+    width: 140px;
+    height: 25px;
+    margin-left: -160px;
+}
+.audio17{
+    width: 140px;
+    height: 25px;
+}
+.audio1:hover{
+    width: 160px;
+    height: 26px;
+    transition: 0.8s;
+}
+.audio2:hover{
+    width: 160px;
+    height: 26px;
+    transition: 0.8s;
+}
+.audio3:hover{
+    width: 160px;
+    height: 26px;
+    transition: 0.8s;
+}
+.audio4:hover{
+    width: 160px;
+    height: 26px;
+    transition: 0.8s;
+}
+.audio5:hover{
+    width: 160px;
+    height: 26px;
+    transition: 0.8s;
+}
+.audio6:hover{
+    width: 160px;
+    height: 26px;
+    transition: 0.8s;
+}
+.audio7:hover{
+    width: 160px;
+    height: 26px;
+    transition: 0.8s;
+}
+.audio8:hover{
+    width: 160px;
+    height: 26px;
+    transition: 0.8s;
+}
+.audio9:hover{
+    width: 160px;
+    height: 26px;
+    transition: 0.8s;
+}
+.audio10:hover{
+    width: 160px;
+    height: 26px;
+    transition: 0.8s;
+}
+.audio11:hover{
+    width: 160px;
+    height: 26px;
+    transition: 0.8s;
+}
+.audio12:hover{
+    width: 160px;
+    height: 26px;
+    transition: 0.8s;
+}
+.audio13:hover{
+    width: 160px;
+    height: 26px;
+    transition: 0.8s;
+}
+.audio14:hover{
+    width: 160px;
+    height: 26px;
+    transition: 0.8s;
+}
+.audio15:hover{
+    width: 160px;
+    height: 26px;
+    transition: 0.8s;
+}
+.audio16:hover{
+    width: 160px;
+    height: 26px;
+    transition: 0.8s;
+}
+.audio17:hover{
+    width: 160px;
+    height: 26px;
+    transition: 0.8s;
+}
